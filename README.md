@@ -15,7 +15,7 @@ A very high throughput design such as the one herein proposed, is likely not eco
 
 ## The provisional proposal envisions:
 
--  A large, thin disposable sheet of [vacuum thermoformed](https://youtu.be/DWWq2hH7imA?t=84) plastic sheet having an array of 900 - 10,000 wells, with each well serving as an individual PCR reaction chamber.
+-  A large, thin disposable [vacuum thermoformed](https://youtu.be/DWWq2hH7imA?t=84) plastic sheet having an array of 900 - 10,000 wells, with each well serving as an individual PCR reaction chamber.
 -  A vacuum form mold to create the impression of the well array in the thermoformed sheet.
 - A bar code reader and X-Y robotic transfer / dispensing system to aliquot patient specimens into recorded wells.
 - At least three water baths at different temperatures – denaturation, annealing, and extension – with additional water baths if needed (e.g. reverse transcription, final elongation).
