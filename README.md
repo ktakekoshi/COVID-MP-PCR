@@ -10,7 +10,7 @@ A very high throughput design such as the one herein proposed, is likely not eco
 
 - Moderated cost suitable for intermittent use during epidemics / pandemics.
 - Use of readily available off-the-shelf components.
-- Capable of processing large numbers of specimens in a short amount of time.
+- Can process large numbers of specimens in a short amount of time.
 - Open source development of hardware and software.
 
 ## The provisional proposal envisions:
