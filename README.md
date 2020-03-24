@@ -33,4 +33,5 @@ This repository is directed towards open-source "maker space" -like development 
 - The sheet if necessary is manually transferred to a water bath set a temperature appropriate for reverse transcription.
 -  The sheet is manually transferred by laboratory technicians between the three or more water baths at different temperatures – denaturation, annealing, and extension – to accomplish the PCR amplification, according to protocol appropriate to the testing reagents.
 - The sheet is placed on a reader device at the end and/or during the procedure.
-- Results are reported, or confirmed using an alternative method for additional specificity if necessary.
+- Using this massively parallel batch-based testing system, it is proposed that anywhere from 300 - 10,000 or more test results could be obtained in a single run.
+- Depending on performance characteristics, follow-up testing of positive results using standardized means may be performed for confirmation.
