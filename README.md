@@ -4,9 +4,7 @@ The COVID-19 epidemic has exposed the need for a high-throughput clinical polyme
 
 It is proposed that current automated PCR clinical testing systems are designed for high flexibility in range of tests to be performed simultaneously (e.g. large test menu), while sacrificing on cost and throughput. Such automated systems may be well-suited for clinical testing where a large and diverse menu of tests must be accessed on demand basis, but are not  designed for repeated / parallel execution of the same test over a very large number of specimens.  Nor are such highly engineered, high costs clinical automated systems suited for intermittent use as in a pendemic setting.
 
-A very high throughput design such as the one herein proposed, is likely not economically viable in the ordinary labratory test setting, as there is usually not demand for extemely high throughput testing of a single test.
-
-This repository is directed towards open-source "maker space" -like development such a high-throughput single-test clinical testing platform.  
+A very high throughput design such as the one herein proposed, is likely not economically viable in the ordinary setting, as under normal circumstances there is not sufficient demand for extemely high throughput of a single test. This repository is directed towards open-source "maker space" -like development of a high-throughput single-test clinical testing platform.  
 
 ## Objectives include:
 
