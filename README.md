@@ -2,7 +2,7 @@
 
 The COVID-19 epidemic has exposed the need for a high-throughput clinical polymerase chain reaction (PCR) platform for epidemic / pandemic testing. 
 
-It is proposed that current automated PCR clinical testing systems are designed for high flexibility in range of tests to be performed simultaneously (e.g. large test menu), while sacrificing on cost and throughput. Such automated machinery is not principally designed for repeated / parallel execution of the same test over a very large number of specimens.
+It is proposed that current automated PCR clinical testing systems are designed for high flexibility in range of tests to be performed simultaneously (e.g. large test menu), while sacrificing on cost and throughput. Such automated systems are not  designed for repeated / parallel execution of the same test over a very large number of specimens.
 
 This repository is directed towards open-source "maker space" -like development such a high-throughput clinical testing system.  
 
