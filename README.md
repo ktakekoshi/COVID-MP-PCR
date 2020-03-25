@@ -20,7 +20,7 @@ A very high throughput design such as the one herein proposed, is likely not eco
 -  A vacuum form mold to create the impression of the well array in the thermoformed sheet.
 - A bar code reader and X-Y robotic transfer / dispensing system to aliquot patient specimens into recorded wells.
 - At least three water baths at different temperatures – denaturation, annealing, and extension – with additional water baths if needed (e.g. reverse transcription, final elongation).
-- A device to read the results.
+- A fluorescent reader device to read the results.
 
 ## The provisional procedure envisions the following process:
 
