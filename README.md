@@ -47,3 +47,5 @@ Current proprietery platforms are capable of runnign ~100 tests per batch, with 
 - [Applied Biosystems 7500](https://www.thermofisher.com/us/en/home/life-science/pcr/real-time-pcr/real-time-pcr-instruments/7500-fast-real-time-pcr-system.html)  - 96 well microtiter format.
 - [Roche 6800-8800](https://diagnostics.roche.com/us/en/products/systems/cobas-8800-system.html) - 96 well microtiter format.
 
+High throughput platforms currently in development will likely be proprietary and expensive.
+- [Hologic](https://www.hhs.gov/about/news/2020/03/09/hhs-supports-development-of-first-high-throughput-covid-19-diagnostic-test.html)
