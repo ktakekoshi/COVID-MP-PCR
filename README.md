@@ -37,13 +37,15 @@ A very high throughput design such as the one herein proposed, is likely not eco
 
 ## Possible hurdles to implementation:
 
-- Production of RNA using RNA extraction kits from patient specimens is time consuming, and is often performed using proprietary reagents (e.g. Qiagen, Roche MagNA). Shortages of RNA isolation kits have occurred during the current pandemic. Methods more resistant to supply chain discruptino should eb investigated.
+- Production of RNA using RNA extraction kits from patient specimens is time consuming, and is often performed using proprietary reagents (e.g. Qiagen, Roche MagNA). Shortages of RNA isolation kits have occurred during the current pandemic. Methods of RNA isolation more resistant to supply chain discruption should be investigated.
+
+- Loading of specimens in massively parallel format may require an excess of time. RNA is particularly susceptible to hydrolysis / disruption. One possible solution is to perform reverse transcription as soon as loading occurs or prior to loading, as DNA is more resistant to hydrolysis than RNA. Alternatively, specimens may be frozen, or the vaccum-formed well-array may be loaded while on a cold surface, so specimens freeze as they are loaded into their respective wells.
 
 - During large-scale pandemic, laboratories implementing laboratory-developed tests utilizing the open source platform in the U.S.A. will require [Emergency Use Authorization (EUA)](https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization) from individual implementing laboratories. Regulatory paradigms in other counries may be more or less permissive. 
 
 ## Comparisons with established platforms:
 
-Current proprietery platforms are capable of runnign ~100 tests per batch, with each batch requiring many ~ hours to complete. The current proposal is to expand batch processing to many hundreds or thousands of tests per batch.
+Current proprietery platforms are capable of running ~100 tests per batch, with each batch requiring many ~ hours to complete. The current proposal is to expand batch processing to many hundreds or thousands of tests per batch.
 
 - [Abbott m2000sp / m2000rt](https://www.molecular.abbott/us/en/products/instrumentation/m2000-realtime-system) -  96 well microtiter format, performs “[many hundreds](https://www.youtube.com/watch?v=IAU1BC21RsY) of specimens per day.”
 - [Applied Biosystems 7500](https://www.thermofisher.com/us/en/home/life-science/pcr/real-time-pcr/real-time-pcr-instruments/7500-fast-real-time-pcr-system.html)  - 96 well microtiter format.
