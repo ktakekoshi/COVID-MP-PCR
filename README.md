@@ -43,7 +43,7 @@ Production of RNA using RNA extraction kits from patient specimens is time consu
 
 Current proprietery platforms are capable of runnign ~100 tests per batch, with each batch requiring many hourse to complete. The current proposal is to expand batch processing to many hundreds or thousands of tests per batch.
 
-- Abbott m2000sp / m2000rt -  96 well microtiter format, performs “many hundreds of specimens per day.”
-- Applied Biosystems 7500  - 96 well microtiter format.
-- Roche 6800-8800 - 96 well microtiter format.
+- [Abbott m2000sp / m2000rt](https://www.molecular.abbott/us/en/products/instrumentation/m2000-realtime-system) -  96 well microtiter format, performs “[many hundreds](https://www.youtube.com/watch?v=IAU1BC21RsY) of specimens per day.”
+- [Applied Biosystems 7500](https://www.thermofisher.com/us/en/home/life-science/pcr/real-time-pcr/real-time-pcr-instruments/7500-fast-real-time-pcr-system.html)  - 96 well microtiter format.
+- [Roche 6800-8800](https://diagnostics.roche.com/us/en/products/systems/cobas-8800-system.html) - 96 well microtiter format.
 
