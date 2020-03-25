@@ -37,7 +37,9 @@ A very high throughput design such as the one herein proposed, is likely not eco
 
 ## Possible hurdles to implementation:
 
-Production of RNA using RNA extraction kits from patient specimens is time consuming, and is often performed using proprietary reagents (e.g. Qiagen, Roche MagNA). Shortages of RNA isolation kits have occurred during the current pandemic. Methods more resistant to supply chain discruptino should eb investigated.
+- Production of RNA using RNA extraction kits from patient specimens is time consuming, and is often performed using proprietary reagents (e.g. Qiagen, Roche MagNA). Shortages of RNA isolation kits have occurred during the current pandemic. Methods more resistant to supply chain discruptino should eb investigated.
+
+- During a pandemic, laboratories implementing laboratory-developed tests utilizing the open source platform in the U.S.A. will require [Emergency Use Authorization (EUA)](https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization) from individual implementing laboratories. Regulatory paradigms in other counries may be more or less permissive. 
 
 ## Comparisons with established platforms:
 
