@@ -2,15 +2,15 @@
 
 The COVID-19 epidemic has exposed the need for a high-throughput clinical polymerase chain reaction (PCR) platform for epidemic / pandemic testing. 
 
-It is proposed that current automated PCR clinical testing systems are designed for high flexibility in range of tests to be performed simultaneously (e.g. large test menu), while sacrificing on cost and throughput. Such automated systems may be well-suited for clinical testing where a large and diverse menu of tests must be accessed on demand basis, but are not  designed for repeated / parallel execution of the same test over a very large number of specimens.  Nor are such highly engineered, high-cost clinical automated systems suited for intermittent use as in a pandemic setting.
+It is proposed that current automated PCR clinical testing systems are designed for high flexibility in types of tests to be performed simultaneously (e.g. large test menu), while sacrificing on cost and throughput. Such automated systems may be well-suited for clinical testing where a large and diverse menu of tests must be accessed on-demand, but are not  designed for repeated / parallel execution of the same test over a very large number of specimens.  Nor are such highly engineered, high-cost clinical automated systems suited for intermittent use in a pandemic setting.
 
-A very high throughput design such as the one herein proposed, is likely not economically viable in the ordinary setting, as under normal circumstances there is not sufficient demand for extremely high throughput of a single test. This repository is directed towards open-source "maker"-like development of a high-throughput single-test clinical testing platform.  
+A very high throughput design such as the one herein proposed, is likely not economically viable in the ordinary clinical setting, as under normal circumstances there is not sufficient demand for extremely high throughput of a single test. This repository is directed towards open-source "maker"-like development of a high-throughput single-test clinical testing platform.  
 
 ## Objectives include:
 
 - Moderated cost suitable for intermittent use during epidemics / pandemics.
 - Use of readily available off-the-shelf components.
-- Dispensibles easily sourced and resistant to supply chain disruptions.
+- Dispensibles easily sourced and resistant to supply chain disruption.
 - Can process large numbers of specimens simultaneously.
 - Open source development of hardware and software.
 
@@ -24,14 +24,14 @@ A very high throughput design such as the one herein proposed, is likely not eco
 
 ## The provisional procedure envisions the following process:
 
-- The vacuum form mold is used to create a single-piece vacuum thermoformed disposable plastic sheet with array of wells.
-- The sheet is cleansed using hydrolyzing reagents to remove nucleic acids residuals / contaminants.
+- The vacuum form mold is used to create a single-piece [vacuum thermoformed](https://youtu.be/DWWq2hH7imA?t=84) disposable plastic sheet with array of wells.
+- The sheet is cleansed using hydrolyzing reagents to remove nucleic acid residuals / contaminants.
 - The sheet is placed on a loader.
-- Reaction in the sheet are loaded with reagents (primers, polymerases, nucleotide mixes, fluorescent reagents).
-- The loader is equipped with an X-Y robotic transfer / dispensing system that transfers patient specimens to wells and records the locations of each patient specimen.
+- Reaction wells in the sheet are loaded with reagents (primers, polymerases, nucleotide mixes, fluorescent reagents).
+- The loader is equipped with bar code reader and X-Y robotic transfer / dispensing system that transfers patient specimens to wells and records the locations of each patient specimen.
 - The sheet if necessary is manually transferred by laboratory technicians to a water bath set at a temperature appropriate for reverse transcription.
 - The sheet is manually transferred by laboratory technicians between the three or more water baths at different temperatures – denaturation, annealing, and extension – to accomplish the PCR amplification, according to protocol appropriate to the testing reagents.
-- The sheet is placed on a reader device at the end and/or at various points during the procedure.
+- The sheet is placed on a reader device at various points during the procedure / or at the end of the procedure.
 - Using this massively parallel batch-based testing system, it is proposed that anywhere from 300 - 10,000 or more test results could be obtained in a single run.
 - Depending on performance characteristics, follow-up testing of positive results using standardized testing may be performed for confirmation.
 
@@ -39,13 +39,13 @@ A very high throughput design such as the one herein proposed, is likely not eco
 
 - Production of RNA using RNA extraction kits from patient specimens is time consuming, and is often performed using proprietary reagents (e.g. Qiagen, Roche MagNA). Shortages of RNA isolation kits have occurred during the current pandemic. Methods of RNA isolation more resistant to supply chain discruption should be investigated.
 
-- Loading of specimens in massively parallel format may require an excess of time. RNA is particularly susceptible to hydrolysis / disruption. One possible solution is to perform reverse transcription as soon as loading occurs or prior to loading, as DNA is more resistant to hydrolysis than RNA. Alternatively, specimens may be frozen, or the vaccum-formed well-array may be loaded while on a cold surface, so specimens freeze as they are loaded into their respective wells.
+- Loading of specimens in massively parallel format may require an excess of time. RNA is particularly susceptible to hydrolysis / disruption. If necessary, one possible solution is to perform reverse transcription as soon as loading occurs or prior to loading specimen, as DNA is more resistant to hydrolysis than RNA. Alternatively, specimens may be frozen, or the vaccum-formed well array may be loaded while on a cold surface, so specimens freeze as they are loaded into their respective wells.
 
-- During large-scale pandemic, laboratories implementing laboratory-developed tests utilizing the open source platform in the U.S.A. will require [Emergency Use Authorization (EUA)](https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization) from individual implementing laboratories. Regulatory paradigms in other counries may be more or less permissive. 
+- During large-scale pandemic, laboratories in the U.S.A. implementing laboratory-developed tests that utilize the open source platform will require [Emergency Use Authorization (EUA)](https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization) from the FDA. Regulations in other jurisdictions will vary.
 
 ## Comparisons with established platforms:
 
-Current proprietery platforms are capable of running ~100 tests per batch, with each batch requiring many ~ hours to complete. The current proposal is to expand batch processing to many hundreds or thousands of tests per batch.
+Current proprietery platforms are capable of running ~100 tests per batch, with each batch requiring 2 - 8 hours to complete. The current proposal is to expand batch processing to many hundreds or thousands of tests per batch.
 
 - [Abbott m2000sp / m2000rt](https://www.molecular.abbott/us/en/products/instrumentation/m2000-realtime-system) -  96 well microtiter format, performs “[many hundreds](https://www.youtube.com/watch?v=IAU1BC21RsY) of specimens per day.”
 - [Applied Biosystems 7500](https://www.thermofisher.com/us/en/home/life-science/pcr/real-time-pcr/real-time-pcr-instruments/7500-fast-real-time-pcr-system.html)  - 96 well microtiter format.
