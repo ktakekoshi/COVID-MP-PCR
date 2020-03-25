@@ -2,7 +2,7 @@
 
 The COVID-19 epidemic has exposed the need for a high-throughput clinical polymerase chain reaction (PCR) platform for epidemic / pandemic testing. 
 
-It is proposed that current automated PCR clinical testing systems are designed for high flexibility in range of tests to be performed simultaneously (e.g. large test menu), while sacrificing on cost and throughput. Such automated systems may be well-suited for clinical testing where a large and diverse menu of tests must be accessed on demand basis, but are not  designed for repeated / parallel execution of the same test over a very large number of specimens.  Nor are such highly engineered, high costs clinical automated systems suited for intermittent use as in a pendemic setting.
+It is proposed that current automated PCR clinical testing systems are designed for high flexibility in range of tests to be performed simultaneously (e.g. large test menu), while sacrificing on cost and throughput. Such automated systems may be well-suited for clinical testing where a large and diverse menu of tests must be accessed on demand basis, but are not  designed for repeated / parallel execution of the same test over a very large number of specimens.  Nor are such highly engineered, high costs clinical automated systems suited for intermittent use as in a pandemic setting.
 
 A very high throughput design such as the one herein proposed, is likely not economically viable in the ordinary setting, as under normal circumstances there is not sufficient demand for extemely high throughput of a single test. This repository is directed towards open-source "maker space" -like development of a high-throughput single-test clinical testing platform.  
 
@@ -10,6 +10,7 @@ A very high throughput design such as the one herein proposed, is likely not eco
 
 - Moderated cost suitable for intermittent use during epidemics / pandemics.
 - Use of readily available off-the-shelf components.
+- Dispensibles sourced from materials resistant to supply chain disruptions.
 - Can process large numbers of specimens in a short amount of time.
 - Open source development of hardware and software.
 
