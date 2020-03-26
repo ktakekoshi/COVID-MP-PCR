@@ -2,7 +2,7 @@
 
 Proposed implementation:
 
-- Copper pipette moves into open flame for rapid incineration of specimen residues; reduces need for tip changing mechanism.
+- Copper pipette moves into open flame or hot silicone oil for rapid incineration of specimen residues; reduces need for tip changing mechanism.
 - Plunger-type aspiration mechanism.
 - May be preferable to place the well-array on a movable bed, and have dispenser on single axis (use a 3D printer bed).
 
