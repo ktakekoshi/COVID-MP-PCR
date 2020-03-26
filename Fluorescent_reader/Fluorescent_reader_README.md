@@ -2,7 +2,7 @@
 
 The project envisions a real-time PCR fluorescent reader system.
 
-Single channel or dual channel:
+Single channel or dual channel?  Single should suffice for now.
 
 - https://support.chaibio.com/hc/en-us/articles/360004016834-Single-Channel-or-Dual-Channel-Open-qPCR-
 
