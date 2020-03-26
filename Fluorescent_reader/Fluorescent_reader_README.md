@@ -11,6 +11,7 @@ Can be adapted from other open source projects?
 - Open source plate reader (U Penn):  
     - https://pubs.acs.org/doi/10.1021/acs.biochem.8b00952 
     - "The fluorescence of NIST-traceable fluorescein could be measured with an ∼10 nM limit of detection with the low-cost detector. Such a detection limit is sufficient for common fluorescence assays as intended, albeit greater than the ∼10 pM limit of commercial systems that use PMTs."
+    - Total primer in CDC test kit is 22.5 nmol, so may nee photomultiplier (PMT) for accurate detection.
     - "The OSP acquires a full spectrum in ∼11 s per well (inclusive of the movement to the well). Because the CCD detector captures all wavelengths simultaneously, the acquisition time for a full spectrum is the same as that of a single wavelength measurement."  This seems slow for the number of specimens.
     
 - Chai bio:  https://www.chaibio.com/openqpcr (hardware may not be open source)
