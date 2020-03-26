@@ -8,6 +8,13 @@ Wavelengths:
 ![](https://www.thermofisher.com/us/en/home/technical-resources/technical-reference-library/real-time-digital-PCR-instruments-support-center/7500-real-time-pcr-systems-support/7500-real-time-pcr-systems-support-getting-started/jcr:content/MainParsys/accordion_2e43/itemspar/accordionitem_e431/itemParsys/image_dabc/foregroundimg.img.320.high.jpg/1548183793593.jpg)
 - https://support.chaibio.com/hc/en-us/articles/360004016834-Single-Channel-or-Dual-Channel-Open-qPCR-
 
+[Photomultiplier tube](https://en.wikipedia.org/wiki/Photomultiplier_tube) vs. [silicon photomultiplier](https://en.wikipedia.org/wiki/Silicon_photomultiplier) vs. CCD vs. CMOS sensors:
+
+- Must have enough sensitivity to detect liberated fluorophore.
+- Must be capable to rapidly query large number of specimens (fast indiviudal query vs. massive parallel query).
+- CCD may lack sensitivity (see U Penn open source project below).
+- Photomultiplier (tube vs. silicon) may be required.
+
 Can be adapted from other open source projects?
 
 - Open source plate reader (U Penn):  
