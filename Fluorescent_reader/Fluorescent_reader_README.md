@@ -17,6 +17,10 @@ Wavelengths:
 
 Can be adapted from other open source projects?
 
+- Design sourced from silicon photomultiplier used in desktop muon detector?
+    - https://arxiv.org/abs/1606.01196
+    - https://github.com/spenceraxani/CosmicWatch-Desktop-Muon-Detector-v2
+    
 - Open source plate reader (U Penn):  
     - https://pubs.acs.org/doi/10.1021/acs.biochem.8b00952 
     - "In the baseline low-cost version here, we use a CCD-based Ocean Optics visible-range detector because of its available open-source drivers and overall balance of sensitivity, full-spectrum and monochromatic detection, and relatively low cost compared to those of monochromator-coupled photomultiplier tubes (PMTs)."
