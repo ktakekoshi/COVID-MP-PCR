@@ -37,7 +37,7 @@ A very high throughput design such as the one herein proposed, is likely not eco
 
 ## Possible hurdles to implementation:
 
-- Production of RNA using RNA extraction kits from patient specimens is time consuming, and is often performed using proprietary reagents (e.g. Qiagen, Roche MagNA, Abbott mSample). Shortages of RNA isolation kits have occurred during the current pandemic. Methods of RNA isolation more resistant to supply chain discruption should be investigated.
+- Production of RNA using RNA extraction kits from patient specimens is time consuming, and is often performed using proprietary reagents (e.g. Qiagen, Roche MagNA, bioMérieux, Abbott mSample). Shortages of RNA isolation kits have occurred during the current pandemic. Methods of RNA isolation more resistant to supply chain discruption should be investigated.
 
 - Loading of specimens in massively parallel format may require an excess of time. RNA is particularly susceptible to hydrolysis / disruption. If necessary, one possible solution is to perform reverse transcription as soon as loading occurs or prior to loading specimen, as DNA is more resistant to hydrolysis than RNA. Alternatively, specimens may be frozen, or the vaccum-formed well array may be loaded while on a cold surface, so specimens freeze as they are loaded into their respective wells.
 
@@ -53,3 +53,18 @@ Current proprietery platforms are capable of running ~100 tests per batch, with 
 
 High throughput platforms currently in development will likely be proprietary and expensive:
 - [Hologic](https://www.hhs.gov/about/news/2020/03/09/hhs-supports-development-of-first-high-throughput-covid-19-diagnostic-test.html) - Development with assistance from HHS Office of the Assistant Secretary for Preparedness and Response (ASPR) / Biomedical Advanced Research and Development Authority [(BARDA)](https://www.phe.gov/about/barda/Pages/default.aspx).
+
+## Additional information:
+
+WHO COVID-19 test kit:
+
+- 
+
+CDC COVID-19 test kit:
+
+- During the extension phase of the PCR cycle, the 5’ nuclease activity of Taq polymerase degrades the probe, causing the reporter dye to separate from the quencher dye, generating a fluorescent signal.
+- Apparently uses [Fluorescein amidite (FAM)](https://en.wikipedia.org/wiki/Fluorescein_amidite).
+- Uses Applied Biosystems 7500 Fast Dx Real-Time PCR Instrument.
+- "Reporter set to FAM and the Quencher is set to (none)."
+- https://www.cdc.gov/coronavirus/2019-ncov/lab/tool-virus-requests.html
+- https://www.fda.gov/media/134922/download
