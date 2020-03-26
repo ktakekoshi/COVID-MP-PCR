@@ -17,9 +17,10 @@ Wavelengths:
 
 Can be adapted from other open source projects?
 
-- Design sourced from silicon photomultiplier used in desktop muon detector?
+- Leverage design sourced from silicon photomultiplier used in desktop muon detector?
     - https://arxiv.org/abs/1606.01196
     - https://github.com/spenceraxani/CosmicWatch-Desktop-Muon-Detector-v2
+    - http://cosmicwatch.lns.mit.edu/about
     
 - Open source plate reader (U Penn):  
     - https://pubs.acs.org/doi/10.1021/acs.biochem.8b00952 
