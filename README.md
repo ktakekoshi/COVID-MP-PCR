@@ -18,7 +18,7 @@ A very high throughput design such as the one herein proposed, is likely not eco
 
 - A large, thin disposable [vacuum thermoformed](https://youtu.be/DWWq2hH7imA?t=84) plastic sheet having an array of 900 - 10,000 wells, with each well serving as an individual PCR reaction chamber.
 - A vacuum thermoform mold to create the impression of the well array in the thermoformed sheet.
-- A bar code reader and X-Y robotic transfer / dispensing system to aliquot patient specimens into recorded wells.
+- A bar code reader and X-Y liquid handling robotic transfer / dispensing system to aliquot patient specimens into recorded wells.
 - At least three water baths at different temperatures – denaturation, annealing, and extension – with additional water baths if needed (e.g. reverse transcription, final elongation).
 - A fluorescent reader device to read the results.
 
@@ -28,7 +28,7 @@ A very high throughput design such as the one herein proposed, is likely not eco
 - The sheet is cleansed using hydrolyzing reagents to remove nucleic acid residuals / contaminants.
 - The sheet is placed on a loader.
 - Reaction wells in the sheet are loaded with reagents (primers, polymerases, nucleotide mixes, fluorescent reagents).
-- The loader is equipped with bar code reader and X-Y robotic transfer / dispensing system that transfers patient specimens to wells and records the locations of each patient specimen.
+- The loader is equipped with bar code reader and X-Y liquid handling robotic transfer / dispensing system that transfers patient specimens to wells and records the locations of each patient specimen.
 - The sheet if necessary is manually transferred by laboratory technicians to a water bath set at a temperature appropriate for reverse transcription.
 - The sheet is manually transferred by laboratory technicians between the three or more water baths at different temperatures – denaturation, annealing, and extension – to accomplish the PCR amplification, according to protocol appropriate to the testing reagents.
 - The sheet is placed on a reader device at various points during the procedure and / or at the end of the procedure.
