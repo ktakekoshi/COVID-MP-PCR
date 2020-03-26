@@ -20,3 +20,6 @@ Can be adapted from other open source projects?
     
 - Chai bio:  https://www.chaibio.com/openqpcr (hardware may not be open source)
 
+Reference:
+
+- http://www.gene-quantification.de/real-time-pcr-handbook-life-technologies-update-flr.pdf
