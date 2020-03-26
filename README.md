@@ -37,7 +37,7 @@ A very high throughput design such as the one herein proposed, is likely not eco
 
 ## Possible hurdles to implementation:
 
-- Production of RNA using RNA extraction kits from patient specimens is time consuming, and is often performed using proprietary reagents (e.g. Qiagen, Roche MagNA). Shortages of RNA isolation kits have occurred during the current pandemic. Methods of RNA isolation more resistant to supply chain discruption should be investigated.
+- Production of RNA using RNA extraction kits from patient specimens is time consuming, and is often performed using proprietary reagents (e.g. Qiagen, Roche MagNA, Abbott mSample). Shortages of RNA isolation kits have occurred during the current pandemic. Methods of RNA isolation more resistant to supply chain discruption should be investigated.
 
 - Loading of specimens in massively parallel format may require an excess of time. RNA is particularly susceptible to hydrolysis / disruption. If necessary, one possible solution is to perform reverse transcription as soon as loading occurs or prior to loading specimen, as DNA is more resistant to hydrolysis than RNA. Alternatively, specimens may be frozen, or the vaccum-formed well array may be loaded while on a cold surface, so specimens freeze as they are loaded into their respective wells.
 
