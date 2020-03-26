@@ -8,6 +8,14 @@ Proposed implementation:
 
 Can be adapted from another open source project?
 
-This one looks over-engineered:  https://www.thingiverse.com/thing:2776125
-Open source but perhaps not FOSS:  https://opentrons.com/
-FINDUS:  https://journals.sagepub.com/doi/abs/10.1177/2472630319877374?journalCode=jlad
+This one looks over-engineered:  
+
+- https://www.thingiverse.com/thing:2776125
+
+Open source but perhaps not FOSS: 
+
+- https://opentrons.com/
+
+FINDUS:  
+
+- https://journals.sagepub.com/doi/abs/10.1177/2472630319877374?journalCode=jlad
