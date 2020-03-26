@@ -26,7 +26,7 @@ Can be adapted from other open source projects?
     - https://pubs.acs.org/doi/10.1021/acs.biochem.8b00952 
     - "In the baseline low-cost version here, we use a CCD-based Ocean Optics visible-range detector because of its available open-source drivers and overall balance of sensitivity, full-spectrum and monochromatic detection, and relatively low cost compared to those of monochromator-coupled photomultiplier tubes (PMTs)."
     - "The fluorescence of NIST-traceable fluorescein could be measured with an ∼10 nM limit of detection with the low-cost detector. Such a detection limit is sufficient for common fluorescence assays as intended, albeit greater than the ∼10 pM limit of commercial systems that use PMTs."
-    - Total primer in CDC test kit is 22.5 nmol, so may nee photomultiplier (PMT) for accurate detection.
+    - Total primer in CDC test kit is 22.5 nmol for 1000 tests at 20 μL each (22.5 pmol / 20 uL = 1.125 uM), so may nee photomultiplier (PMT) for accurate detection.
     - How to get faster speed?
     - "The OSP acquires a full spectrum in ∼11 s per well (inclusive of the movement to the well). Because the CCD detector captures all wavelengths simultaneously, the acquisition time for a full spectrum is the same as that of a single wavelength measurement."  This seems slow for the number of specimens.
     
