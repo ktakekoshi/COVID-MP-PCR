@@ -56,7 +56,7 @@ High throughput platforms currently in development will likely be proprietary an
 
 ## Additional information:
 
-WHO COVID-19 test kit:
+"WHO" COVID-19 test kit:
 
 - One test (Charité Virology, Berlin, Germany) uses FAM reporter with BBQ quencher (FAM-CAGGTGGAACCTCATCAGGAGATGC- BBQ; FAM-ACACTAGCCATCCTTACTGCGCTTCG- BBQ).
 - 45 cycles.
