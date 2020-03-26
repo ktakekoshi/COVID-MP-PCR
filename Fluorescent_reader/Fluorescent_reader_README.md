@@ -8,5 +8,6 @@ Single channel or dual channel:
 
 Can be adapted from other open source projects?
 
-- https://www.chaibio.com/openqpcr
+- Open source plate reader (U Penn):  https://pubs.acs.org/doi/10.1021/acs.biochem.8b00952 
+- Chai bio:  https://www.chaibio.com/openqpcr (hardware may not be open source)
 
