@@ -2,7 +2,11 @@
 
 The project envisions a real-time PCR fluorescent reader system.
 
-Can be adapted from other open source projects:
+Single channel or dual channel:
 
-https://www.chaibio.com/openqpcr
+- https://support.chaibio.com/hc/en-us/articles/360004016834-Single-Channel-or-Dual-Channel-Open-qPCR-
+
+Can be adapted from other open source projects?
+
+- https://www.chaibio.com/openqpcr
 
