@@ -64,6 +64,6 @@ CDC COVID-19 test kit:
 
 - During the extension phase of the PCR cycle, the 5’ nuclease activity of Taq polymerase degrades the probe, causing the reporter dye to separate from the quencher dye, generating a fluorescent signal.
 - Apparently uses [Fluorescein amidite (FAM)](https://en.wikipedia.org/wiki/Fluorescein_amidite) reporter.
-- Uses Applied Biosystems 7500 Fast Dx Real-Time PCR Instrument; "Reporter set to FAM and the Quencher is set to (none)."
+- Uses Applied Biosystems 7500 Fast Dx Real-Time PCR Instrument; "Reporter set to FAM and the Quencher is set to (none)," "Reps should be set to 45."
 - https://www.cdc.gov/coronavirus/2019-ncov/lab/tool-virus-requests.html
 - https://www.fda.gov/media/134922/download
