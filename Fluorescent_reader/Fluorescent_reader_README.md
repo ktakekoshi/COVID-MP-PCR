@@ -2,8 +2,10 @@
 
 The project envisions a real-time PCR fluorescent reader system.
 
-Single channel or dual channel?  Single should suffice for now.
+Wavelengths:
 
+- Single channel or dual channel?  Single should suffice for now (needs to detect FAM).
+- ![](https://www.thermofisher.com/us/en/home/technical-resources/technical-reference-library/real-time-digital-PCR-instruments-support-center/7500-real-time-pcr-systems-support/7500-real-time-pcr-systems-support-getting-started/jcr:content/MainParsys/accordion_2e43/itemspar/accordionitem_e431/itemParsys/image_dabc/foregroundimg.img.320.high.jpg/1548183793593.jpg)
 - https://support.chaibio.com/hc/en-us/articles/360004016834-Single-Channel-or-Dual-Channel-Open-qPCR-
 
 Can be adapted from other open source projects?
