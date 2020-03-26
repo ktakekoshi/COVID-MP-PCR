@@ -18,6 +18,7 @@ Wavelengths:
 Can be adapted from other open source projects?
 
 - Leverage design sourced from silicon photomultiplier used in desktop muon detector?
+    - Uses [ON Semiconductor SiPM MicroFC-60035-SMT](https://www.mouser.com/ProductDetail/on-semiconductor/microfc-60035-smt-tr1/?qs=byeeYqUIh0MxSRIaBcfS6g%3D%3D&countrycode=US&currencycode=USD) silicon photomultiplier chip.
     - https://arxiv.org/abs/1606.01196
     - https://github.com/spenceraxani/CosmicWatch-Desktop-Muon-Detector-v2
     - http://cosmicwatch.lns.mit.edu/about
