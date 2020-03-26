@@ -2,4 +2,5 @@
 
 Can adopt from other open source projects:
 
-- Chai PCR https://github.com/chaibio/chaipcr (apache license)
+- Chai PCR https://github.com/chaibio/chaipcr (apache license).
+- pQPCR http://pyqpcr.sourceforge.net/ .
