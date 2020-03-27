@@ -13,7 +13,7 @@ Provisional design guidance:
  - 10.9 mm well depth.
  - 9 mm well spacing (center to center).
  - 33 wells rows x 42 columns = 1386 wells.
- - Hopefully provides enough space to overlay 9 (3 x 3) microtiter plates if preferred.
+ - Hopefully provides enough space to overlay 9 (3 x 3) 96-well microtiter plates if preferred.
 
 Link to literature containing standard microtiter plate dimensions:
 https://www.gbo.com/fileadmin/user_upload/Downloads/Brochures/Brochures_BioScience/F073027_Microplate_Dimensions_Guide.pdf
