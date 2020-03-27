@@ -6,7 +6,7 @@ Wavelengths:
 
 - Single channel or dual channel?  Single should suffice for now (needs to detect FAM).
 ![](https://www.thermofisher.com/us/en/home/technical-resources/technical-reference-library/real-time-digital-PCR-instruments-support-center/7500-real-time-pcr-systems-support/7500-real-time-pcr-systems-support-getting-started/jcr:content/MainParsys/accordion_2e43/itemspar/accordionitem_e431/itemParsys/image_dabc/foregroundimg.img.320.high.jpg/1548183793593.jpg)
-- [6-FAM fluorophore](https://www.sigmaaldrich.com/technical-documents/articles/biology/choosing-the-right-probe.html): max. excitation [494 nm](https://ucalgary.ca/dnalab/analysis/dyes), max. emission 517 nm; compatible quenchers: HQ-1, TAMRA.
+- [6-FAM](https://www.sigmaaldrich.com/technical-documents/articles/biology/choosing-the-right-probe.html) fluorophore: max. excitation [494 nm](https://ucalgary.ca/dnalab/analysis/dyes), max. emission 517 nm; compatible quenchers: HQ-1, TAMRA (vs. [FITC](https://en.wikipedia.org/wiki/Fluorescein_isothiocyanate) 495 nm / 519 nm).
 ![](https://i.imgur.com/IE1Qrl2.gif)
 - https://support.chaibio.com/hc/en-us/articles/360004016834-Single-Channel-or-Dual-Channel-Open-qPCR-
 
