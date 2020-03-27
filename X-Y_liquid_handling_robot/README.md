@@ -18,4 +18,5 @@ Open source but perhaps not FOSS:
 
 FINDUS:  
 
+- https://github.com/FBarthels/FINDUS
 - https://journals.sagepub.com/doi/abs/10.1177/2472630319877374?journalCode=jlad
