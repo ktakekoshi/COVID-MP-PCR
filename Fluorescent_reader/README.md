@@ -17,7 +17,7 @@ Wavelengths:
 
 - Must have enough sensitivity to detect liberated fluorophore.
 - Must be capable to rapidly query large number of specimens (fast indiviudal query vs. massive parallel query).
-- CCD may lack sensitivity (see U Penn open source project below).
+- CCD may lack sensitivity for fast reads (see U Penn open source project below).
 - Photomultiplier (tube vs. silicon) may be required.
 
 Can be adapted from other open source projects?
