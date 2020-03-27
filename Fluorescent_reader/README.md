@@ -10,7 +10,7 @@ Wavelengths:
 - [6-FAM](https://www.sigmaaldrich.com/technical-documents/articles/biology/choosing-the-right-probe.html) fluorophore: max. excitation [494 nm](https://ucalgary.ca/dnalab/analysis/dyes), max. emission 517 nm; compatible quenchers: HQ-1, TAMRA.
 ![](https://i.imgur.com/IE1Qrl2.gif)
 - [5-FAM](https://www.thermofisher.com/order/catalog/product/C1359#/C1359) fluorophore: max. excitation [493 nm](https://ucalgary.ca/dnalab/analysis/dyes), max. emission 522 nm; compatible quenchers: HQ-1, TAMRA.
-- vs. [FITC](https://en.wikipedia.org/wiki/Fluorescein_isothiocyanate) 495 nm / 519 nm).
+- vs. [FITC](https://en.wikipedia.org/wiki/Fluorescein_isothiocyanate) (495 nm / 519 nm).
 - https://support.chaibio.com/hc/en-us/articles/360004016834-Single-Channel-or-Dual-Channel-Open-qPCR-
 
 [Photomultiplier tube](https://en.wikipedia.org/wiki/Photomultiplier_tube) vs. [silicon photomultiplier](https://en.wikipedia.org/wiki/Silicon_photomultiplier) vs. CCD vs. CMOS sensors:
